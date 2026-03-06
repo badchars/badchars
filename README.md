@@ -25,6 +25,7 @@ Building AI-powered security tools at the intersection of penetration testing an
 
 ## Current Projects
 ⚡ [CyberStrike.io](https://github.com/AUMLabs-net/cyberstrike.io) - Offensive security toolkit<br>
+🔍 [recon0](https://github.com/badchars/recon0) - All-in-one bug bounty recon pipeline — 9-stage, resumable, LLM-enriched<br>
 🗺️ [nMapper](https://github.com/badchars/nMapper) - Automated penetration testing tool with speech recognition<br>
 🛡️ MCP Security Tools - Model Context Protocol integrations for security automation
 
@@ -42,4 +43,3 @@ Breaking things to make them stronger. Finding vulnerabilities so others can fix
 
 ## GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/badchars)
-
