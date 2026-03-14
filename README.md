@@ -24,11 +24,12 @@ Building AI-powered security tools at the intersection of penetration testing an
 📖 [orhanyildirim.us](https://orhanyildirim.us) – Personal site & security research
 
 ## Current Projects
-⚡ [CyberStrike.io](https://github.com/AUMLabs-net/cyberstrike.io) - Offensive security toolkit<br>
+⚡ [CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - AI-powered offensive security agent — autonomous pentesting, 4 specialized agents, 120+ OWASP test cases<br>
 🔍 [recon0](https://github.com/badchars/recon0) - All-in-one bug bounty recon pipeline — 9-stage, resumable, LLM-enriched<br>
 🗺️ [nMapper](https://github.com/badchars/nMapper) - Automated penetration testing tool with speech recognition<br>
 🌐 [hackbrowser-mcp](https://github.com/badchars/hackbrowser-mcp) - The first browser MCP for security testing — 39 tools, multi-container Firefox, injection testing<br>
-☁️ [cloud-audit-mcp](https://github.com/badchars/cloud-audit-mcp) - Cloud security audit MCP for AI agents — 38 tools, 60+ checks across AWS, Azure, GCP
+☁️ [cloud-audit-mcp](https://github.com/badchars/cloud-audit-mcp) - Cloud security audit MCP for AI agents — 38 tools, 60+ checks across AWS, Azure, GCP<br>
+🔒 [github-security-mcp](https://github.com/badchars/github-security-mcp) - GitHub security posture MCP — 39 tools, 45 checks across org, repos, Actions, secrets, supply chain
 
 ## What's My Passion
 Breaking things to make them stronger. Finding vulnerabilities so others can fix them.
