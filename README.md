@@ -1,5 +1,5 @@
 # Hi, I'm Orhan 👋
-📍 Washington DC, USA | 🔐 Offensive Security | 📖 Author: Agentic AI for Offensive Cybersecurity
+📍 Washington DC, USA | 🔐 Offensive Security | 📖 Author: [Agentic AI for Offensive Cybersecurity](https://www.amazon.com/dp/B0GFD44D84)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Support%20My%20Work-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/orhanyildirim)
 [![Charity](https://img.shields.io/badge/-❤️%20JustGiving-A50064?style=flat-square)](https://www.justgiving.com/page/orhan-yildirim-1)
