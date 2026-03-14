@@ -27,7 +27,7 @@ Building AI-powered security tools at the intersection of penetration testing an
 ⚡ [CyberStrike.io](https://github.com/AUMLabs-net/cyberstrike.io) - Offensive security toolkit<br>
 🔍 [recon0](https://github.com/badchars/recon0) - All-in-one bug bounty recon pipeline — 9-stage, resumable, LLM-enriched<br>
 🗺️ [nMapper](https://github.com/badchars/nMapper) - Automated penetration testing tool with speech recognition<br>
-🛡️ MCP Security Tools - Model Context Protocol integrations for security automation
+🌐 [hackbrowser-mcp](https://github.com/badchars/hackbrowser-mcp) - The first browser MCP for security testing — 39 tools, multi-container Firefox, injection testing
 
 ## What's My Passion
 Breaking things to make them stronger. Finding vulnerabilities so others can fix them.
