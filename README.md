@@ -31,6 +31,7 @@ Building AI-powered security tools at the intersection of penetration testing an
 ☁️ [cloud-audit-mcp](https://github.com/badchars/cloud-audit-mcp) - Cloud security audit MCP for AI agents — 38 tools, 60+ checks across AWS, Azure, GCP<br>
 🔒 [github-security-mcp](https://github.com/badchars/github-security-mcp) - GitHub security posture MCP — 39 tools, 45 checks across org, repos, Actions, secrets, supply chain<br>
 🛡️ [cve-mcp](https://github.com/badchars/cve-mcp) - CVE/vulnerability intelligence MCP — 23 tools, 5 sources (NVD, EPSS, KEV, GHSA, OSV), risk scoring
+🧠 [ai-knowledge-graph](https://github.com/badchars/ai-knowledge-graph) - Interactive AI/ML knowledge graph — 132 terms, 531 relationships, 11 categories, 6 languages, security-first
 
 ## What's My Passion
 Breaking things to make them stronger. Finding vulnerabilities so others can fix them.
