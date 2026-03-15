@@ -45,4 +45,8 @@ Breaking things to make them stronger. Finding vulnerabilities so others can fix
 
 
 ## GitHub Activity
-![GitHub Contribution Graph](https://ghchart.rshah.org/badchars)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=badchars&theme=github-dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=badchars&theme=github-light&hide_border=true">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=badchars&theme=github-dark&hide_border=true">
+</picture>
