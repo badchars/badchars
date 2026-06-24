@@ -31,17 +31,33 @@ Building AI-powered security tools at the intersection of penetration testing an
 
 ---
 
-## Current Projects
+## MCP Security Suite
+
+AI agent tooling via Model Context Protocol — 7 servers, 330+ tools.
+
+| Project | Tools | Description |
+|---------|:-----:|-------------|
+| **[supply-chain-mcp](https://github.com/badchars/supply-chain-mcp-server)** | 90 | Software supply chain security — OSV, GHSA, NVD, EPSS, CISA KEV, npm, PyPI, crates.io, Go, RubyGems, NuGet, Packagist, deps.dev, Scorecard, Rekor, typosquatting |
+| **[darknet-mcp](https://github.com/badchars/darknet-mcp-server)** | 66 | Dark web intelligence — breach data, ransomware tracking, Tor .onion, malware analysis, blockchain intel, exploit search, stealer logs |
+| **[osint-mcp](https://github.com/badchars/osint-mcp-server)** | 37 | OSINT intelligence — Shodan, VirusTotal, Censys, SecurityTrails, DNS recon, WHOIS, certificate transparency, BGP, Wayback Machine |
+| **[hackbrowser-mcp](https://github.com/badchars/hackbrowser-mcp)** | 39 | Browser for security testing — multi-container Firefox, injection testing, DOM inspection, auth flows |
+| **[github-security-mcp](https://github.com/badchars/github-security-mcp)** | 39 | GitHub security posture — org, repos, Actions, secrets, supply chain, access control analysis |
+| **[cloud-audit-mcp](https://github.com/badchars/cloud-audit-mcp)** | 38 | Cloud security audit — 60+ checks across AWS, Azure, GCP misconfiguration detection |
+| **[cve-mcp](https://github.com/badchars/cve-mcp)** | 23 | CVE/vulnerability intelligence — NVD, EPSS, KEV, GitHub Advisory, OSV, risk scoring |
+
+## Offensive Security
 
 | Project | Description |
 |---------|-------------|
 | **[CyberStrike](https://github.com/CyberStrikeus/CyberStrike)** | AI-powered offensive security agent — autonomous pentesting, 4 specialized agents, 120+ OWASP test cases |
 | **[recon0](https://github.com/badchars/recon0)** | All-in-one bug bounty recon pipeline — 9-stage, resumable, LLM-enriched |
+| **[AzureAD-Pentest](https://github.com/badchars/AzureAD-Pentest)** | Azure Active Directory penetration testing methodology and tooling |
 | **[nMapper](https://github.com/badchars/nMapper)** | Automated penetration testing tool with speech recognition |
-| **[hackbrowser-mcp](https://github.com/badchars/hackbrowser-mcp)** | Browser MCP for security testing — 39 tools, multi-container Firefox, injection testing |
-| **[cloud-audit-mcp](https://github.com/badchars/cloud-audit-mcp)** | Cloud security audit MCP — 38 tools, 60+ checks across AWS, Azure, GCP |
-| **[github-security-mcp](https://github.com/badchars/github-security-mcp)** | GitHub security posture MCP — 39 tools, 45 checks across org, repos, Actions, secrets, supply chain |
-| **[cve-mcp](https://github.com/badchars/cve-mcp)** | CVE/vulnerability intelligence MCP — 23 tools, 5 sources (NVD, EPSS, KEV, GHSA, OSV), risk scoring |
+
+## Research & Education
+
+| Project | Description |
+|---------|-------------|
 | **[ai-knowledge-graph](https://github.com/badchars/ai-knowledge-graph)** | Interactive AI/ML knowledge graph — 132 terms, 531 relationships, 11 categories, 6 languages |
 
 ---
