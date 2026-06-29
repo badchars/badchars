@@ -47,6 +47,7 @@ Building AI-powered security tools at the intersection of penetration testing an
 | **[github-security-mcp](https://github.com/badchars/github-security-mcp)** | GitHub security posture MCP — 39 tools, 45 checks across org, repos, Actions, secrets, supply chain |
 | **[cve-mcp](https://github.com/badchars/cve-mcp)** | CVE/vulnerability intelligence MCP — 23 tools, 5 sources (NVD, EPSS, KEV, GHSA, OSV), risk scoring |
 | **[dns-security-mcp](https://github.com/badchars/dns-security-mcp)** | DNS security intelligence MCP — 104 tools, 13 categories. DNSSEC validation, hijacking detection, tunneling analysis, typosquatting, email security, certificate transparency, blocklist checking. Zero API keys required |
+| **[steganography-mcp](https://github.com/badchars/steganography-mcp)** | Steganography analysis MCP — 60 tools, 7 categories. LSB detection, chi-square steganalysis, RS analysis, DCT forensics, audio stego, zero-width text encoding, file forensics, encoding detection. Zero API keys |
 | **[mcp-security-scanner](https://github.com/badchars/mcp-security-scanner)** | MCP server security scanner — 55 tools. Runtime inspection, AST-based SAST, config audit, dependency analysis, OWASP MCP Top 10 compliance, prompt injection testing |
 | **[ai-knowledge-graph](https://github.com/badchars/ai-knowledge-graph)** | Interactive AI/ML knowledge graph — 132 terms, 531 relationships, 11 categories, 6 languages |
 
